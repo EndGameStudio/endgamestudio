@@ -16,3 +16,5 @@ fields:
     time_format: 
     display_utc: false
   label: Date
+pages:
+- content/first-post.md
